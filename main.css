@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+#number{
+    border: none;
+    border-radius: 5px;
+    box-shadow: inset 0px 0px 5px  #999,
+    inset 0px 0px 10px  #999;
+    outline: none;
+    padding: 10px;
+    font-size: 20px;
+}
+#container{
+    font-size: 20px;
+    text-transform: uppercase;
+}
