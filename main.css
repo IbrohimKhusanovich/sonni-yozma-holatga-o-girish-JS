@@ -11,6 +11,7 @@ body{
     flex-direction: column;
 }
 #number{
+    width:100%;
     border: none;
     border-radius: 5px;
     box-shadow: inset 0px 0px 5px  #999,
